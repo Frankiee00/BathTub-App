@@ -1,0 +1,19 @@
+body {
+    --mind-color: #50b7f5;
+    --mind-background: #e6ecf0;
+}
+
+.app {
+    display: flex;
+    height: 100vh;
+    max-width: 1130px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 10px; 
+}
+
+h1 {
+    text-align: center;
+}
+
+
